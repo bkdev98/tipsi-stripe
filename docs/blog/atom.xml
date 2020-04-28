@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tipsi.github.io/tipsi-stripe/blog</id>
+    <id>https://tipsi-stripe-experimental.netlify.app/blog</id>
     <title>tipsi-stripe Blog</title>
     <updated>2018-03-27T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://tipsi.github.io/tipsi-stripe/blog"/>
+    <link rel="alternate" href="https://tipsi-stripe-experimental.netlify.app/blog"/>
     <subtitle>The best place to stay up-to-date with the latest tipsi-stripe news and events.</subtitle>
-    <logo>https://tipsi.github.io/tipsi-stripe/img/favicon.png</logo>
-    <rights>Copyright © 2019 Tipsi</rights>
+    <logo>https://tipsi-stripe-experimental.netlify.app/img/favicon.png</logo>
+    <rights>Copyright © 2020 Tipsi</rights>
     <entry>
         <title type="html"><![CDATA[Added new docs]]></title>
-        <id>https://tipsi.github.io/tipsi-stripe/blog/2018/03/27/added-new-docs.html</id>
-        <link href="https://tipsi.github.io/tipsi-stripe/blog/2018/03/27/added-new-docs.html">
+        <id>https://tipsi-stripe-experimental.netlify.app/blog/2018/03/27/added-new-docs.html</id>
+        <link href="https://tipsi-stripe-experimental.netlify.app/blog/2018/03/27/added-new-docs.html">
         </link>
         <updated>2018-03-27T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Please welcome, new docs!</p> ]]></summary>
